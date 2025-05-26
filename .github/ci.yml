@@ -25,5 +25,8 @@ jobs:
 
       - run: mkdocs build
 
+      - name: List output directory
+        run: ls -R ./site
+
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
