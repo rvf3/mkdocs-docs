@@ -1,7 +1,7 @@
 site_name: Projet de documentation - Rafael Olivieri
 site_description: Ce projet à pour objectif de documenter mon travail.
 site_author: Olivieri Rafael
-site_url: https://votre-site-web.com
+site_url: https://rvf3.github.io/mkdocs-docs/
 
 # Configuration du dépôt
 repo_name: rvf3/mkdocs-docs
